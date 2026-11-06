@@ -1,0 +1,9 @@
+#opencode
+opencode.json
+
+# Local builds and test output
+/factory
+/bin/
+/coverage.out
+/coverage.html
+*.test
